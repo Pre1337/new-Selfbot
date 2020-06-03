@@ -683,4 +683,4 @@ async def nickall(ctx, rename_to):
                 return
 
 keep_alive()
-bot.run("NjY1NzM1OTUwODI3MjU3ODc2.XtAv5A.1VnDbP_ZUNwENDdjeOmqCKSBkso", bot=False)
+bot.run("YOUR TOKEN", bot=False)
