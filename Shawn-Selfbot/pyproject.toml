@@ -13,5 +13,5 @@ discord = "^1.0"
 python = "^3.7"
 bs4 = "^0.0.1"
 colorama = "^0.4.3"
-flask = "^1.1"
+flask = "^2.2"
 [tool.poetry.dev-dependencies]
